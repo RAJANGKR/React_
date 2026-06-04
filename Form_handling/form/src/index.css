@@ -1,0 +1,9 @@
+.form11{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  border-radius: 8px;
+  background: rgb(240, 240, 240);
+  margin-bottom: 16px;
+}

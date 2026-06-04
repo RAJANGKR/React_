@@ -1,0 +1,83 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'georgia', Tahoma, Geneva, Verdana, sans-serif;
+}
+#button{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: rgb(189, 189, 249);
+  color: var(--accent);
+  border: 1px solid var(--accent-border);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btnD{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: rgb(189, 189, 249);
+  color: var(--accent);
+  border: 1px solid var(--accent-border);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btnI{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: rgb(255, 180, 180);
+  color: var(--accent);
+  border: 1px solid var(--accent-border);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btnJ{
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 16px;
+  border-radius: 6px;
+  background: rgb(199, 252, 199);
+  color: var(--accent);
+  border: 1px solid var(--accent-border);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.aa{
+  background: rgb(240, 240, 240);
+  padding: 16px;
+  border-radius: 8px;
+  margin-bottom: 16px;
+}
+
+
+.hook1{
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 16px;
+  border-radius: 8px;
+  background: rgb(240, 240, 240);
+  margin-bottom: 16px;
+}
+.page1{
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 16px;
+  border-radius: 8px;
+  background: rgb(240, 240, 240);
+}
